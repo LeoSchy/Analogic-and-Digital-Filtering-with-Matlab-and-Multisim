@@ -16,3 +16,5 @@ How to run this program
 
 1. Fit all the files in the same project folder.
 2. Compile TP3digital.m and TP3analogico.m to see the results of the Digital and Analog filters, respectively. The code is heavily commented in Spanish so it should be easy to understand. If you know Spanish, that is :P
+
+The .mdl files are the Multisim diagrams of the implemented circuits.
